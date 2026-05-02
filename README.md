@@ -37,7 +37,7 @@ Follow these steps to deploy your own instance of Puatify.
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/yourusername/Puatify.git](https://github.com/yourusername/Puatify.git)
+    git clone https://github.com/niexianqz/PuatifySourceCode
     cd Puatify
     ```
 2.  Install dependencies:
