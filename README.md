@@ -2,6 +2,9 @@
 
 Puatify is an automated school schedule notification system designed to keep students informed about their daily classes. It features a modern web dashboard for viewing schedules and an integrated LINE Official Account bot that sends real-time updates and summaries.
 
+## Website
+https://www.niexian.site/
+
 ## 🚀 Features
 
 *   **Modern Web Dashboard:** A sleek, responsive Next.js frontend with dark mode and glassmorphism design.
